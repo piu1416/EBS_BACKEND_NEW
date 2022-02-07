@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "25cd5d70-4096-47a3-8a8a-9ff094281cd8": {
+      "ProjectGuid": "25cd5d70-4096-47a3-8a8a-9ff094281cd8",
+      "DisplayName": "ElectricityBillingSystem",
+      "ColorIndex": 0
+    },
+    "95ec0589-3631-4a02-8add-03bc88a52b84": {
+      "ProjectGuid": "95ec0589-3631-4a02-8add-03bc88a52b84",
+      "DisplayName": "EBSTest",
+      "ColorIndex": 1
+    },
+    "299b9f53-5f94-492e-9de7-c613ced94ce6": {
+      "ProjectGuid": "299b9f53-5f94-492e-9de7-c613ced94ce6",
+      "DisplayName": "EBS_ClientSite",
+      "ColorIndex": 2
+    },
+    "e04accb3-97a2-42bc-8894-1c87440e420e": {
+      "ProjectGuid": "e04accb3-97a2-42bc-8894-1c87440e420e",
+      "DisplayName": "EBillSolutions_Client",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}
